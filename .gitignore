@@ -1,3 +1,6 @@
-.projecy
-.pyproject
+.project
+.pydevproject*
 .pyc
+data
+log
+.settings
