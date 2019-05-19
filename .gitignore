@@ -1,6 +1,6 @@
 .project
 .pydevproject*
 .pyc
-data
 log
 .settings
+ml_practice.code-workspace
